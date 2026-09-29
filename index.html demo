@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset = "UTF-8">
+  <meta name = "viewport" content ="width=device-width, inital-scale=1.0">
+    <title>MegansArchives</title>
+</head>
+  
+<body>
+ 
+    body {
+    background-color: lightblue 
+    font-family: times new roman
+    }
+    
+  
+  <header>
+    <nav>
+     <p> "Home | <a href="https://meganstokke.neocities.org/IMG_0407.JPG" >Here is my pet </a> | Blah | Blah"</p>
+     </nav>
+  </header>
+  
+  <main>
+    <h1>Megan's Archives</h1>
+    <p> welcome to my boilerpage website.</p>
+  
+  <p> My fav place on the web is 
+  <a href = "https://share.google/Bhm0OReZGJGRv8d5x">Neocities</a>
+  <img src="/neocities.png" alt="The Neocities Cat">
+  <h2> Things I like...</h2> 
+  <ol>
+    <Li>Making websites</li>
+    <li>Cats</li>
+    <li>dogs</li>
+  </ol>
+ </main>
+ </body>
+</html>
