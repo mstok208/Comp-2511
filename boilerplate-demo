@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+     <!-- ========================================== -->
+    <!-- 0. BOILERPLATE                              -->
+    <!-- ========================================== -->
+		<!-- Reference:                                 -->
+		<!-- "generate a html5 boilerplate...", Google Gemini, Model 2.0, 2026. [Generative AI].Available https://share.google/aimode/2xKaRwbpEc7bWMiIm  -->
+		<!-- ========================================== -->
+    <!-- 1. TECHNICAL CONFIGURATION                 -->
+    <!-- ========================================== -->
+    
+    <!-- Sets the character encoding for the document (UTF-8 supports almost all languages) -->
+    <meta charset="UTF-8">
+    
+    <!-- Ensures proper rendering and touch zooming on mobile devices -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- ========================================== -->
+    <!-- 2. SEARCH ENGINE OPTIMIZATION (SEO)       -->
+    <!-- ========================================== -->
+    
+    <!-- The title displayed on the browser tab and in search engine results -->
+    <title>HTML5 Boilerplate Template</title>
+    
+    <!-- A short summary of the page content used by search engines on results pages -->
+    <meta name="description" content="A clean, structured HTML5 boilerplate template featuring organized meta tags and semantic structural elements.">
+    
+    <!-- Keywords relevant to the page content (less critical for modern SEO, but standard) -->
+    <meta name="keywords" content="HTML5, boilerplate, template, semantic HTML, web development">
+    
+    <!-- Instructs search engine bots to index the page and follow links within it -->
+    <meta name="robots" content="index, follow">
+
+    <!-- ==========================================   -->
+    <!-- 3. OPEN GRAPH (SOCIAL MEDIA METADATA)        -->
+    <!-- ========================================== 
+		<!-- This , but beyond COMP 2511 Web 1 expectations-->
+    
+		<!-- 
+			Defines the title of your object as it should appear within social graphs (e.g., Facebook, LinkedIn) 
+		<meta property="og:title" content="HTML5 Boilerplate Template">
+    
+			Describes the type of object your page represents (e.g., website, article) 
+		<meta property="og:type" content="website">
+    
+			The canonical URL of your object that will be used as its permanent ID in the graph 
+    <	meta property="og:url" content="https://example.com">
+    
+			An image URL which should represent your object within the graph 
+		<meta property="og:image" content="https://example.comimages/og-share.jpg">
+    
+			A one-to-two sentence description of your object 
+		<meta property="og:description" content="A clean, structured HTML5 boilerplate template featuring organized meta tags and semantic structural elements.">
+		-->
+
+    <!-- ========================================== -->
+    <!-- 4. FAVICONS                                -->
+    <!-- ========================================== -->
+    
+    <!-- Main shortcut icon for browser tabs and bookmarks (standard 32x32 ICO or PNG file) -->
+    <!-- <link rel="icon" type="image/x-icon" href="/favicon.ico"> -->
+    <!-- <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"> -->
+    
+    <!-- Apple Touch Icon for iOS devices when saved to the home screen (typically 180x180 PNG) -->
+    <!-- <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"> -->
+    
+    <!-- Web App Manifest for Android devices and PWA support -->
+    <!-- <link rel="manifest" href="/site.webmanifest"> -->
+
+    <!-- ========================================== -->
+    <!-- 5. EXTERNAL ASSETS (CSS)                   -->
+    <!-- ========================================== -->
+    
+    <!-- Links the main external stylesheet for structural and visual styles -->
+    <!-- <link rel="stylesheet" href="css/style.css"> -->
+
+ <!-- ========================================== -->
+    <!-- 6. EXTERNAL ASSETS (JAVASCRIPT)            -->
+    <!-- ========================================== -->
+    
+    <!-- Links the main external JavaScript file -->
+    <!-- The 'defer' attribute ensures the script executes only after the HTML document is fully parsed -->
+    <!-- <script src="js/main.js" defer></script> -->
+   
+</head>
+<body>
+  <header>
+    <nav><!-- Navigation links would go here -->
+      <p>[Navigation Menu Placeholder]</p>
+    </nav>
+  </header>
+<!-- Main section contains the dominant, unique content of the document -->
+  <main><!-- Main page heading -->
+    <h1>Welcome to the Boilerplate Page</h1>
+  <!-- Standard filler text to visualize page layout -->
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </main>
+<!-- Footer section contains authorship, legal, or copyright information -->
+  <footer><!-- Copyright notice with dynamically relevant year notation -->
+    <p>© 2026 Your Company Name. All rights reserved.</p>
+  </footer>
+</body>
+</html>
